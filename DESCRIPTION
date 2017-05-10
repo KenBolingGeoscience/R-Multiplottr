@@ -1,0 +1,10 @@
+Package: multiplotter
+Title: Print a few plots from that new dataset
+Version: 0.1.0.0
+Authors@R: person("Ken", "Boling", email = "KenBoling.Geoscience@gmail.com", role = c("aut", "cre"))
+Description: This package is used to produce a quick series of charts based on correlation coefficents.  It can be used to get a quick overveiw of a dataset and what variables display some co-variation.  It is a  work in progress, and will eventually be able to do more advanced things than it can at the moment.
+Depends: R (>= 3.3.2)
+License: GNU GENERAL PUBLIC LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
